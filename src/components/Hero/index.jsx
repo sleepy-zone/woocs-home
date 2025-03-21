@@ -9,7 +9,7 @@ const Hero = () => {
           <h1>
             <span className="gradient-text">woocs</span>
           </h1>
-          <p>基于 doocs/md 开发的微信 Markdown 编辑器桌面应用。</p>
+          <p>基于 doocs/md 开发的微信 Markdown 编辑器桌面应用</p>
           <div className="hero-buttons">
             <button className="primary-button" onClick={() => { window.open('https://github.com/sleepy-zone/woocs/releases', '_blank') }}>下 载</button>
             <button className="secondary-button" onClick={() => { window.open('https://github.com/sleepy-zone/woocs', '_blank') }}>Github</button>
