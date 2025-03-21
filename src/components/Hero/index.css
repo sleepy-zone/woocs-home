@@ -46,7 +46,7 @@
 }
 
 .hero-text h1 {
-  font-size: 4.5rem;
+  font-size: 6rem;
   font-weight: 800;
   line-height: 1.1;
   margin-bottom: 1.5rem;
@@ -54,7 +54,7 @@
 }
 
 .gradient-text {
-  background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+  background: linear-gradient(135deg, #10B981 0%, #06B6D4 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -79,7 +79,7 @@
 }
 
 .primary-button {
-  background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+  background: linear-gradient(135deg, #10B981 0%, #06B6D4 100%);
   color: white;
   border: none;
   padding: 1rem 2.5rem;
@@ -113,7 +113,7 @@
 }
 
 .hero-visual {
-  max-width: 900px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
